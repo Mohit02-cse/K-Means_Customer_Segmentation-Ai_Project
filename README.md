@@ -1,4 +1,3 @@
-# K-Means_Customer_Segmentation-Ai_Project
 # Customer Segmentation using K-Means Clustering
 
 This AI/ML project applies K-Means Clustering to segment customers based on their Age and Annual Income, enabling targeted marketing strategies. The project includes Exploratory Data Analysis (EDA), Elbow Method for optimal cluster selection, and clear visualizations.
