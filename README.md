@@ -14,8 +14,18 @@ This AI/ML project applies K-Means Clustering to segment customers based on thei
 - `images/` - Output plot images
 - `requirements.txt` - Python dependencies
 
-## 🔧 Installation
+## 📚 Libraries Used
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- scikit-learn
 
-```bash
-pip install -r requirements.txt
+## 📈 Dataset
+- The dataset Customers.csv contains customer information with the following fields:
 
+   - CustomerID
+   - Gender
+   - Age
+   - Annual Income ($)
+   - Spending Score (1-100)
